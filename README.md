@@ -6,10 +6,13 @@ Front End Developer
 
 I have over 4 years experience working in app development with VueJS,Nuxt,CSS and CSS Pre-Processors. I was working as Frontend Developer in "Front End Dept." for Theme Coding. Currently, I was work as Frontend Developer at TEKROM Technology in "Helorobo" project with VueJS and CSS Pre-Processors. Now i work at Hepsiemlak
 
-*   🌍  I'm based in Turkey
-*   ✉️  You can contact me at [gzabun@hotmail.com](mailto:gzabun@hotmail.com)
-*   🚀  I'm currently working on [@hepsiemlak](http://www.hepsiemlak.com)
-*   🧠  I'm learning Jest, New Features SCSS### Skills 
+* 🌍  I'm based in Turkey
+* ✉️  You can contact me at [gzabun@hotmail.com](mailto:gzabun@hotmail.com)
+* 🚀  I'm currently working on [@hepsiemlak](http://www.hepsiemlak.com)
+* 🧠  I'm learning Jest, New Features SCSS
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -27,19 +30,14 @@ I have over 4 years experience working in app development with VueJS,Nuxt,CSS an
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
-                    
+
 ### Socials
-                  
-                  
-<p align="left">
-                          
-                      <a href="https://www.codepen.io/gzabun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/gzabun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/gzabun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@gkhanzabun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/gkhanzbn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/gzabun"><img src="https://github-readme-stats.vercel.app/api?username=gzabun&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="gzabun's GitHub stats" /></a><a href="https://github.com/gzabun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzabun&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<p align="left"> <a href="https://www.codepen.io/gzabun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/gzabun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gzabun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@gkhanzabun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gkhanzbn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/gzabun"><img src="https://github-readme-stats.vercel.app/api?username=gzabun&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="gzabun's GitHub stats" /></a>
+
+<a href="https://github.com/gzabun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzabun&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
